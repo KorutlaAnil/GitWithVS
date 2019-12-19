@@ -13,7 +13,7 @@ namespace GitWithVS.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly"
+            "Freezing", "Bracing", "Chilly","asdad"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
